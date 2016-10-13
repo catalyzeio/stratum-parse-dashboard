@@ -1,0 +1,11 @@
+{
+  "name": "stratum-parse-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": ">=4.5"
+  },
+  "dependencies": {
+    "parse-dashboard": "^1.0.18"
+  }
+}
