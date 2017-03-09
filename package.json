@@ -6,6 +6,6 @@
     "node": ">=4.5"
   },
   "dependencies": {
-    "parse-dashboard": "^1.0.18"
+    "parse-dashboard": "^1.0.25"
   }
 }
