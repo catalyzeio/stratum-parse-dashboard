@@ -1,1 +1,1 @@
-web: parse-dashboard --config $PARSE_DASHBOARD_CONFIG --mountPath /dashboard --port $PORT --allowInsecureHTTP
+web: parse-dashboard --config ./config.json --mountPath /dashboard --port $PORT --allowInsecureHTTP

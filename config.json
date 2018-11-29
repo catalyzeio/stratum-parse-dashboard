@@ -1,0 +1,17 @@
+{
+    "apps": [
+        {
+            "serverURL": "https://my-parse-server.example.com",
+            "appId": "my-random-app-id",
+            "masterKey": "abcde-12345-fghij-67890",
+            "appName": "my-app",
+            "production": true
+        }
+    ],
+    "users": [
+        {
+            "user": "my-admin-username",
+            "pass": "changeme"
+        }
+    ]
+}
