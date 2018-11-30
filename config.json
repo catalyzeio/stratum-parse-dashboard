@@ -3,8 +3,8 @@
     ],
     "users": [
         {
-            "user": "my-admin-username",
-            "pass": "changeme"
+            !"user": "set-admin-username-here-and-remove-!",
+            !"pass": "set-admin-password-here-and-remove-!"
         }
     ]
 }
